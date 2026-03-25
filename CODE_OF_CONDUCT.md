@@ -67,7 +67,7 @@ These formats are preferred, but not mandatory:
 
 > **Note:** `.pdf` is acceptable for final, print-ready or read-only distributions, but where content is meant to be readable, editable, or collaborative, open text-based formats are strongly preferred.
 
-> Proprietary formats are not forbidden for personal use, but contributors are encouraged to provide an open equivalent when sharing within community spaces.
+Proprietary formats are not forbidden for personal use, but contributors are encouraged to provide an open equivalent when sharing within community spaces.
 
 ## 6. Expected Behavior
 
