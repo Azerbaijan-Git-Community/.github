@@ -46,7 +46,7 @@ For community-facing documents and contributions, preferred formats are those th
 
 These formats are preferred, but not mandatory:
 
-**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)** (ISO/IEC 26300)
+**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)**
 
 | Format                             | Use case                | Standard        |
 | ---------------------------------- | ----------------------- | --------------- |
