@@ -44,7 +44,7 @@ However, **when producing or sharing artifacts on behalf of the community** — 
 
 For community-facing documents and contributions, preferred formats are those that are open, vendor-neutral, and accessible without proprietary software:
 
-**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)** (ISO/IEC 26300)
+**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)**
 
 | For | Use | Standard |
 |---|---|---|
