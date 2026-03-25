@@ -42,6 +42,22 @@ We encourage the use of **free software, open standards, and open technologies**
 
 Attempts to shame, pressure, or force others regarding their technology choices are discouraged.
 
+### File Formats
+
+In the interest of openness, interoperability, and accessibility, we encourage the use of **open file formats** in all community-related documents and contributions.
+
+**For office documents, the preferred formats are those of the [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument) standard**, as they are vendor-neutral, ISO-standardized, and fully supported by free software tools such as LibreOffice and OnlyOffice:
+
+| Instead of | Use |
+|---|---|
+| `.docx` (Microsoft Word) | `.odt` (OpenDocument Text) |
+| `.xlsx` (Microsoft Excel) | `.ods` (OpenDocument Spreadsheet) |
+| `.pptx` (Microsoft PowerPoint) | `.odp` (OpenDocument Presentation) |
+
+Formats that are inherently open or format-neutral — such as `.pdf`, `.md`, `.txt`, `.csv`, `.html`, and `.json` — are acceptable as-is and require no substitution.
+
+Proprietary formats are not strictly forbidden, but contributors are strongly encouraged to provide an ODF equivalent when sharing editable documents within the community.
+
 ## 6. Expected Behavior
 
 When participating in community spaces, you should:
@@ -166,4 +182,3 @@ This document is inspired by widely adopted open source community practices and 
 ***Yusif Aliyev:*** [yusifaliyevpro@gmail.com](mailto:yusifaliyevpro@gmail.com)
 
 ***Yusif Aliyev:*** [mammadovagil@tutamail.com](mailto:mammadovagil@tutamail.com)
-
