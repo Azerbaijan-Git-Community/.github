@@ -46,27 +46,19 @@ For community-facing documents and contributions, preferred formats are those th
 
 These formats are preferred, but not mandatory:
 
-**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)**
-
-| Format                             | Use case                | Standard        |
-| ---------------------------------- | ----------------------- | --------------- |
-| `.odp` (OpenDocument Presentation) | Presentation Documents  | ISO/IEC 26300-1 |
-| `.ods` (OpenDocument Spreadsheet)  | Spreadsheet Documents   | ISO/IEC 26300-1 |
-| `.odt` (OpenDocument Text)         | Text Documents          | ISO/IEC 26300-1 |
-
-**For plain content**, prefer formats that require no special software at all:
-
-| Format                              | Use case                         | Standard      |
-| ----------------------------------- | -------------------------------- | ------------- |
-| `.csv` (Comma-Separated Values)     | Tabular data                     | RFC 4180      |
-| `.epub` (Electronic Publication)    | Long-form readable documents     | ISO/IEC 23736 |
-| `.html` (HyperText Markup Language) | Web-facing content               | ISO/IEC 15445 |
-| `.md` (Markdown)                    | Documentation, guides, notes     | RFC 7763      |
-| `.pdf` (Portable Document Format)   | Final distributions only         | ISO 32000     |
-| `.txt` (Plain Text)                 | Plain text, no formatting needed | —             |
+| Format                              | Use case                         | Standard        |
+| ----------------------------------- | -------------------------------- | --------------- |
+| `.csv` (Comma-Separated Values)     | Tabular data                     | RFC 4180        |
+| `.epub` (Electronic Publication)    | Long-form readable documents     | ISO/IEC 23736   |
+| `.html` (HyperText Markup Language) | Web-facing content               | ISO/IEC 15445   |
+| `.md` (Markdown)                    | Documentation, guides, notes     | RFC 7763        |
+| `.odp` (OpenDocument Presentation)  | Presentation Documents           | ISO/IEC 26300-1 |
+| `.ods` (OpenDocument Spreadsheet)   | Spreadsheet Documents            | ISO/IEC 26300-1 |
+| `.odt` (OpenDocument Text)          | Text Documents                   | ISO/IEC 26300-1 |
+| `.pdf` (Portable Document Format)   | Final distributions only         | ISO 32000       |
+| `.txt` (Plain Text)                 | Plain text, no formatting needed | —               |
 
 > **Note:** `.pdf` is acceptable for final, print-ready or read-only distributions, but where content is meant to be readable, editable, or collaborative, open text-based formats are strongly preferred.
-
 Proprietary formats are not forbidden for personal use, but contributors are encouraged to provide an open equivalent when sharing within community spaces.
 
 ## 6. Expected Behavior
