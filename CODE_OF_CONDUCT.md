@@ -30,34 +30,41 @@ We commit to:
 * Sharing knowledge and credit fairly
 * Supporting open collaboration and open knowledge
 
-## 5. Freedom of Technology Choice (FOSS Principle)
+## 5. Open Standards and Software Freedom
 
-As a community focused on **Free and Open Source Software**, we respect the freedom of individuals to choose the tools, platforms, and technologies they use.
+This community is built on the principles of **Free and Open Source Software (FOSS)**. We believe that software freedom is a fundamental right — the freedom to use, study, modify, and share software and the tools we build with.
 
-**No member of the community may be pressured, required, or coerced to use proprietary software, closed-source code, or closed ecosystems in order to participate in community activities, projects, discussions, or events.**
+**No member of the community may be pressured, required, or coerced to use proprietary software, closed-source tools, or closed ecosystems in order to participate in community activities, projects, discussions, or events.**
 
-Participation in the Azerbaijan GitHub Community should remain accessible without requiring proprietary software whenever reasonably possible.
+Every individual retains full autonomy over their personal toolchain and technology choices. What you run on your own machine is your own business.
 
-We encourage the use of **free software, open standards, and open technologies**, while maintaining respectful and constructive discussion about alternative technologies.
-
-Attempts to shame, pressure, or force others regarding their technology choices are discouraged.
+However, **when producing or sharing artifacts on behalf of the community** — such as documents, presentations, data files, or project assets — we give strong preference to **free software, open standards, and universally accessible formats**, so that no participant is excluded due to lack of access to proprietary tools.
 
 ### File Formats
 
-In the interest of openness, interoperability, and accessibility, we encourage the use of **open file formats** in all community-related documents and contributions.
+For community-facing documents and contributions, preferred formats are those that are open, vendor-neutral, and accessible without proprietary software:
 
-**For office documents, the preferred formats are those of the [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument) standard**, as they are vendor-neutral, ISO-standardized, and fully supported by free software tools such as LibreOffice and OnlyOffice:
+**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)** (ISO/IEC 26300)
 
-| Instead of | Use |
-|---|---|
-| `.docx` (Microsoft Word) | `.odt` (OpenDocument Text) |
-| `.xlsx` (Microsoft Excel) | `.ods` (OpenDocument Spreadsheet) |
-| `.pptx` (Microsoft PowerPoint) | `.odp` (OpenDocument Presentation) |
+| For | Use | Standard |
+|---|---|---|
+| Presentation Documents | `.odp` (OpenDocument Presentation) | ISO/IEC 26300-1 |
+| Spreadsheet Documents | `.ods` (OpenDocument Spreadsheet) | ISO/IEC 26300-1 |
+| Text Documents | `.odt` (OpenDocument Text) | ISO/IEC 26300-1 |
 
-Formats that are inherently open or format-neutral — such as `.pdf`, `.md`, `.txt`, `.csv`, `.html`, and `.json` — are acceptable as-is and require no substitution.
+**For plain content**, prefer formats that require no special software at all:
 
-Proprietary formats are not strictly forbidden, but contributors are strongly encouraged to provide an ODF equivalent when sharing editable documents within the community.
+| Format | Use case | Standard |
+|---|---|---|
+| `.csv` (Comma-Separated Values) | Tabular data | RFC 4180 |
+| `.epub` (Electronic Publication) | Long-form readable documents | ISO/IEC 23736 |
+| `.html` (HyperText Markup Language) | Web-facing content | ISO/IEC 15445 |
+| `.md` (Markdown) | Documentation, guides, notes | RFC 7763 |
+| `.pdf` (Portable Document Format) | Final distributions only | ISO 32000 |
+| `.txt` (Plain Text) | Plain text, no formatting needed | — |
 
+> **Note:** `.pdf` is acceptable for final, print-ready or read-only distributions, but where content is meant to be readable, editable, or collaborative, open text-based formats are strongly preferred.
+Proprietary formats are not forbidden for personal use, but contributors are encouraged to provide an open equivalent when sharing within community spaces.
 ## 6. Expected Behavior
 
 When participating in community spaces, you should:
