@@ -44,78 +44,24 @@ However, **when producing or sharing artifacts on behalf of the community** — 
 
 For community-facing documents and contributions, preferred formats are those that are open, vendor-neutral, and accessible without proprietary software:
 
-**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)** (ISO/IEC 26300)
+**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)**
 
-<table width="100%">
-<thead>
-<tr>
-<th>For</th>
-<th>Use</th>
-<th>Standard</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Presentation Documents</td>
-<td><code>.odp</code> (OpenDocument Presentation)</td>
-<td>ISO/IEC 26300-1</td>
-</tr>
-<tr>
-<td>Spreadsheet Documents</td>
-<td><code>.ods</code> (OpenDocument Spreadsheet)</td>
-<td>ISO/IEC 26300-1</td>
-</tr>
-<tr>
-<td>Text Documents</td>
-<td><code>.odt</code> (OpenDocument Text)</td>
-<td>ISO/IEC 26300-1</td>
-</tr>
-</tbody>
-</table>
+| For | Use | Standard |
+|---|---|---|
+| Presentation Documents | `.odp` (OpenDocument Presentation) | ISO/IEC 26300-1 |
+| Spreadsheet Documents | `.ods` (OpenDocument Spreadsheet) | ISO/IEC 26300-1 |
+| Text Documents | `.odt` (OpenDocument Text) | ISO/IEC 26300-1 |
 
 **For plain content**, prefer formats that require no special software at all:
 
-<table width="100%">
-<thead>
-<tr>
-<th>Format</th>
-<th>Use case</th>
-<th>Standard</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>.csv</code> (Comma-Separated Values)</td>
-<td>Tabular data</td>
-<td>RFC 4180</td>
-</tr>
-<tr>
-<td><code>.epub</code> (Electronic Publication)</td>
-<td>Long-form readable documents</td>
-<td>ISO/IEC 23736</td>
-</tr>
-<tr>
-<td><code>.html</code> (HyperText Markup Language)</td>
-<td>Web-facing content</td>
-<td>ISO/IEC 15445</td>
-</tr>
-<tr>
-<td><code>.md</code> (Markdown)</td>
-<td>Documentation, guides, notes</td>
-<td>RFC 7763</td>
-</tr>
-<tr>
-<td><code>.pdf</code> (Portable Document Format)</td>
-<td>Final distributions only</td>
-<td>ISO 32000</td>
-</tr>
-<tr>
-<td><code>.txt</code> (Plain Text)</td>
-<td>Plain text, no formatting needed</td>
-<td>—</td>
-</tr>
-</tbody>
-</table>
+| Format | Use case | Standard |
+|---|---|---|
+| `.csv` (Comma-Separated Values) | Tabular data | RFC 4180 |
+| `.epub` (Electronic Publication) | Long-form readable documents | ISO/IEC 23736 |
+| `.html` (HyperText Markup Language) | Web-facing content | ISO/IEC 15445 |
+| `.md` (Markdown) | Documentation, guides, notes | RFC 7763 |
+| `.pdf` (Portable Document Format) | Final distributions only | ISO 32000 |
+| `.txt` (Plain Text) | Plain text, no formatting needed | — |
 
 > **Note:** `.pdf` is acceptable for final, print-ready or read-only distributions, but where content is meant to be readable, editable, or collaborative, open text-based formats are strongly preferred.
 
