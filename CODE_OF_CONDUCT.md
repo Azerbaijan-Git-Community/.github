@@ -8,12 +8,12 @@ Azerbaijan GitHub Community is dedicated to building an open, welcoming, and saf
 
 This Code of Conduct applies to all spaces and activities where people represent or participate in the Azerbaijan GitHub Community, including but not limited to:
 
-* GitHub organization repositories (issues, pull requests, discussions)
-* Official website and project pages
-* Online discussion platforms and messaging groups (Discord, Telegram, Signal)
-* Online meetings, webinars, livestreams, and workshops
-* Physical meetups, conferences, hackathons, and sponsored events
-* Social media and other public communications made on behalf of the community
+- GitHub organization repositories (issues, pull requests, discussions)
+- Official website and project pages
+- Online discussion platforms and messaging groups (Discord, Telegram, Signal)
+- Online meetings, webinars, livestreams, and workshops
+- Physical meetups, conferences, hackathons, and sponsored events
+- Social media and other public communications made on behalf of the community
 
 ## 3. Our Pledge
 
@@ -23,12 +23,12 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 We commit to:
 
-* Respectful and constructive communication
-* Inclusivity and equal opportunity to contribute
-* Transparency in decisions that affect the community
-* Helping and mentoring newcomers
-* Sharing knowledge and credit fairly
-* Supporting open collaboration and open knowledge
+- Respectful and constructive communication
+- Inclusivity and equal opportunity to contribute
+- Transparency in decisions that affect the community
+- Helping and mentoring newcomers
+- Sharing knowledge and credit fairly
+- Supporting open collaboration and open knowledge
 
 ## 5. Open Standards and Software Freedom
 
@@ -44,60 +44,55 @@ However, **when producing or sharing artifacts on behalf of the community** — 
 
 For community-facing documents and contributions, preferred formats are those that are open, vendor-neutral, and accessible without proprietary software:
 
-**Office documents → [Open Document Format (ODF)](https://en.wikipedia.org/wiki/OpenDocument)**
+These formats are preferred, but not mandatory:
 
-| For | Use | Standard |
-|---|---|---|
-| Presentation Documents | `.odp` (OpenDocument Presentation) | ISO/IEC 26300-1 |
-| Spreadsheet Documents | `.ods` (OpenDocument Spreadsheet) | ISO/IEC 26300-1 |
-| Text Documents | `.odt` (OpenDocument Text) | ISO/IEC 26300-1 |
-
-**For plain content**, prefer formats that require no special software at all:
-
-| Format | Use case | Standard |
-|---|---|---|
-| `.csv` (Comma-Separated Values) | Tabular data | RFC 4180 |
-| `.epub` (Electronic Publication) | Long-form readable documents | ISO/IEC 23736 |
-| `.html` (HyperText Markup Language) | Web-facing content | ISO/IEC 15445 |
-| `.md` (Markdown) | Documentation, guides, notes | RFC 7763 |
-| `.pdf` (Portable Document Format) | Final distributions only | ISO 32000 |
-| `.txt` (Plain Text) | Plain text, no formatting needed | — |
+| Format                              | Use case                         | Standard        |
+| ----------------------------------- | -------------------------------- | --------------- |
+| `.csv` (Comma-Separated Values)     | Tabular data                     | RFC 4180        |
+| `.epub` (Electronic Publication)    | Long-form readable documents     | ISO/IEC 23736   |
+| `.html` (HyperText Markup Language) | Web-facing content               | ISO/IEC 15445   |
+| `.md` (Markdown)                    | Documentation, guides, notes     | RFC 7763        |
+| `.odp` (OpenDocument Presentation)  | Presentation Documents           | ISO/IEC 26300-1 |
+| `.ods` (OpenDocument Spreadsheet)   | Spreadsheet Documents            | ISO/IEC 26300-1 |
+| `.odt` (OpenDocument Text)          | Text Documents                   | ISO/IEC 26300-1 |
+| `.pdf` (Portable Document Format)   | Final distributions only         | ISO 32000       |
+| `.txt` (Plain Text)                 | Plain text, no formatting needed | —               |
 
 > **Note:** `.pdf` is acceptable for final, print-ready or read-only distributions, but where content is meant to be readable, editable, or collaborative, open text-based formats are strongly preferred.
+> Proprietary formats are not forbidden for personal use, but contributors are encouraged to provide an open equivalent when sharing within community spaces.
 
-Proprietary formats are not forbidden for personal use, but contributors are encouraged to provide an open equivalent when sharing within community spaces.
 ## 6. Expected Behavior
 
 When participating in community spaces, you should:
 
-* Be respectful and considerate in all communications.
-* Actively welcome and help newcomers.
-* Provide constructive, non-personal feedback in code reviews and discussions.
-* Respect differing viewpoints and seek to understand before responding.
-* Follow moderators’ guidance and respect channel/topic organization.
-* Protect others’ privacy and personal data; do not share private information without consent.
+- Be respectful and considerate in all communications.
+- Actively welcome and help newcomers.
+- Provide constructive, non-personal feedback in code reviews and discussions.
+- Respect differing viewpoints and seek to understand before responding.
+- Follow moderators’ guidance and respect channel/topic organization.
+- Protect others’ privacy and personal data; do not share private information without consent.
 
 ## 7. Unacceptable Behavior
 
 The following behaviors are unacceptable and will not be tolerated:
 
-* Harassment, intimidation, stalking, or sustained disruption of community spaces.
-* Discriminatory comments, slurs, or hate speech based on age, gender, race, ethnicity, nationality, religion, sexual orientation, disability, or other protected characteristics.
-* Personal attacks, insults, or demeaning comments directed at individuals.
-* Sharing private or personally identifying information (doxxing).
-* Sexual content or unwelcome sexual attention.
-* Posting spam, unsolicited advertising, or malicious content.
-* Repeatedly ignoring moderator requests or attempting to evade enforcement actions.
+- Harassment, intimidation, stalking, or sustained disruption of community spaces.
+- Discriminatory comments, slurs, or hate speech based on age, gender, race, ethnicity, nationality, religion, sexual orientation, disability, or other protected characteristics.
+- Personal attacks, insults, or demeaning comments directed at individuals.
+- Sharing private or personally identifying information (doxxing).
+- Sexual content or unwelcome sexual attention.
+- Posting spam, unsolicited advertising, or malicious content.
+- Repeatedly ignoring moderator requests or attempting to evade enforcement actions.
 
 ## 8. Communication Platforms (Discord / Telegram / Signal / Chat)
 
 For messaging and chat platforms:
 
-* Keep messages relevant to the channel topic.
-* Avoid excessive self-promotion or repeated links.
-* Do not post private conversations, images, or personal data without permission.
-* Respect channel-specific rules and pinned guidance.
-* If a moderator asks you to stop a particular behavior, comply immediately. Disagreements can be raised later through private channels or the reporting process.
+- Keep messages relevant to the channel topic.
+- Avoid excessive self-promotion or repeated links.
+- Do not post private conversations, images, or personal data without permission.
+- Respect channel-specific rules and pinned guidance.
+- If a moderator asks you to stop a particular behavior, comply immediately. Disagreements can be raised later through private channels or the reporting process.
 
 ## 9. Open Source–Specific Expectations
 
@@ -124,16 +119,16 @@ If you experience or witness behavior that violates this Code of Conduct, please
 
 Provide:
 
-* A description of the incident (what happened, when, where)
-* Names or handles of people involved
-* Links, screenshots, or other evidence if available
-* Your contact information (optional — anonymous reports are accepted)
+- A description of the incident (what happened, when, where)
+- Names or handles of people involved
+- Links, screenshots, or other evidence if available
+- Your contact information (optional — anonymous reports are accepted)
 
 Report via:
 
-* **Email:** [subhanqedirli@protonmail.com](mailto:subhanqedirli@protonmail.com)
-* **Direct message:** contact a community moderator or organizer
-* **During events:** notify an on-site organizer or designated safety contact
+- **Email:** [subhanqedirli@protonmail.com](mailto:subhanqedirli@protonmail.com)
+- **Direct message:** contact a community moderator or organizer
+- **During events:** notify an on-site organizer or designated safety contact
 
 Reports will be handled confidentially to the extent possible while allowing appropriate action.
 
@@ -154,16 +149,16 @@ Decisions will aim to be fair, transparent, and respectful of privacy.
 
 Moderators and organizers are responsible for:
 
-* Enforcing this Code of Conduct consistently
-* Acting impartially and documenting enforcement actions
-* Helping de-escalate conflicts
-* Recusing themselves where conflicts of interest exist
+- Enforcing this Code of Conduct consistently
+- Acting impartially and documenting enforcement actions
+- Helping de-escalate conflicts
+- Recusing themselves where conflicts of interest exist
 
 ## 13. Event-Specific Rules
 
-* All attendees, speakers, sponsors, and volunteers must follow this Code of Conduct.
-* Event materials including photos or recordings must respect participant consent.
-* Organizers will communicate safety contacts and reporting channels at the start of events.
+- All attendees, speakers, sponsors, and volunteers must follow this Code of Conduct.
+- Event materials including photos or recordings must respect participant consent.
+- Organizers will communicate safety contacts and reporting channels at the start of events.
 
 ## 14. Representation & External Communications
 
@@ -183,10 +178,10 @@ This document is inspired by widely adopted open source community practices and 
 
 **Contact:** [subhanqedirli@protonmail.com](mailto:subhanqedirli@protonmail.com)
 
-**Moderation team:** 
+**Moderation team:**
 
-***Subhan Gadirli:*** [subhanqedirli@protonmail.com](mailto:subhanqedirli@protonmail.com)
+**_Subhan Gadirli:_** [subhanqedirli@protonmail.com](mailto:subhanqedirli@protonmail.com)
 
-***Yusif Aliyev:*** [yusifaliyevpro@gmail.com](mailto:yusifaliyevpro@gmail.com)
+**_Yusif Aliyev:_** [yusifaliyevpro@gmail.com](mailto:yusifaliyevpro@gmail.com)
 
-***Yusif Aliyev:*** [mammadovagil@tutamail.com](mailto:mammadovagil@tutamail.com)
+**_Yusif Aliyev:_** [mammadovagil@tutamail.com](mailto:mammadovagil@tutamail.com)
